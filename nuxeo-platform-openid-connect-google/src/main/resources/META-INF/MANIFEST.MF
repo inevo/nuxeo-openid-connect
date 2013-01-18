@@ -1,0 +1,11 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Name: nuxeo-platform-openid-connect-google
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-Vendor: Nuxeo
+Bundle-Version: 1.0.qualifier
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: nuxeo-platform-openid-connect-google
+Nuxeo-Component: OSGI-INF/openid-connect-provider-contrib.xml
+

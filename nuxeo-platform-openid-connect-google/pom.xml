@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>org.nuxeo.ecm.openid</groupId>
+    <artifactId>nuxeo-openid-connect-parent</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <relativePath>..</relativePath>
+  </parent>
+
+  <groupId>org.nuxeo.ecm.platform</groupId>
+  <artifactId>nuxeo-platform-openid-connect-google</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <name>nuxeo-platform-openid-connect-google</name>
+  <description>
+  </description>
+
+</project>

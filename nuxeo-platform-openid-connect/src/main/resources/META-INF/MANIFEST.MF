@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-Vendor: Nuxeo
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Bundle-Version: 1.0.qualifier
+Bundle-Name: nuxeo-platform-openid-connect
+Bundle-ManifestVersion: 2
+Nuxeo-Component: OSGI-INF/auth-contrib.xml, OSGI-INF/openid-connect-provider-registry.xml
+Bundle-SymbolicName: nuxeo-platform-openid-connect
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+
